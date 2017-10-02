@@ -1,0 +1,39 @@
+# def minutes_to_hours(minutes, seconds):
+#    hours = minutes / 60 + seconds / 3600
+#    return hours
+#
+#
+#print(minutes_to_hours(180, 39847))
+
+
+# def age_foo(age):
+#    new_age = float(age) + 50
+#    return new_age
+#
+#
+#age = input("Enter your age: ")
+# print(age_foo(age))
+
+
+# def celcToFahr(celc):
+#     fahr = float(celc) * 9 / 5 + 32
+#     return fahr
+
+
+# celcius = float(input("Enter celcius: "))
+
+# if celcius < -273.15:
+#     print("That is not possible!")
+# else:
+#     print(celcToFahr(celcius))
+
+#money = {"saving_account": 200, "checking_account": 100, "under_bed": [500, 10, 100]}
+# print(money["under_bed"][1])
+
+# conditionals
+#a = 5
+#
+# if a < 5:
+#    print("Less than 5")
+# else:
+#    print("equal or greater than 5")
