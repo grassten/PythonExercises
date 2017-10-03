@@ -20,12 +20,17 @@
 #     return fahr
 
 
-# celcius = float(input("Enter celcius: "))
+# temperatures = [10, -20, -289, 100]
 
-# if celcius < -273.15:
-#     print("That is not possible!")
-# else:
-#     print(celcToFahr(celcius))
+# for temp in temperatures:
+#     if temp < -273.15:
+#         print("That is not possible!")
+#     else:
+#         with open("temps.txt", "a") as file:
+#             file.write(str(celcToFahr(temp)) + "\n")
+
+#celcius = float(input("Enter celcius: "))
+
 
 #money = {"saving_account": 200, "checking_account": 100, "under_bed": [500, 10, 100]}
 # print(money["under_bed"][1])
@@ -37,3 +42,6 @@
 #    print("Less than 5")
 # else:
 #    print("equal or greater than 5")
+
+
+# file manipulation
