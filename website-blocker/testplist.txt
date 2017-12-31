@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs$
+<plist version="1.0">
+        <dict>
+                <key>WebsiteBlocker</key>
+                <string>com.websiteblocker.app</string>
+                <key>Program</key>
+                <string>/Users/Steven/Desktop/pythonProjects/website-blocker/we$
+                <key>RunAtLoad</key>
+                <true/>
+        </dict>
+</plist>
